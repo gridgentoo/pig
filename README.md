@@ -1,3 +1,6 @@
+Архитектура [pig] & Реверс инжениринг
+https://drive.google.com/drive/folders/1sR3oFWVnbjmbHN85R6dNHQWWOEQoK5yI
+
 Apache Pig
 ===========
 Pig is a dataflow programming environment for processing very large files. Pig's
