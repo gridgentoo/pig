@@ -17,6 +17,8 @@ executes them using Hadoop. It is also possible to execute Pig Latin programs
 in a "local" mode (without Hadoop cluster), in which case all processing takes
 place in a single local JVM. 
 
+![alt text](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/Architecture-of-Apache-Pig-01.jpg)
+
 General Info
 ===============
 
