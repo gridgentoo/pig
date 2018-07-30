@@ -1,6 +1,8 @@
 Архитектура [pig] & Реверс инжениринг
 https://drive.google.com/drive/folders/1sR3oFWVnbjmbHN85R6dNHQWWOEQoK5yI
 
+![alt text](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Apache-Pig-Architecture-Pig-Tutorial-Edureka-1.png)
+
 Apache Pig
 ===========
 Pig is a dataflow programming environment for processing very large files. Pig's
